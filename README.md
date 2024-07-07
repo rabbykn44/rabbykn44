@@ -3,7 +3,6 @@
 <h3 align="center">A Passionate CSE Student Exploring Technology and Innovation</h3>
 <h3 align="center">Coding is my passion because it allows me to bring ideas to life and solve complex problems creatively. I love the challenge of debugging and optimizing code, and the satisfaction that comes with seeing a project come together. Through coding, I can continuously learn and innovate, pushing the boundaries of what technology can achieve.</h3>
 
-<img align ="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400" height="400">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabbykn44&label=Profile%20views&color=0e75b6&style=flat" alt="rabbykn44" /> </p>
