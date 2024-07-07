@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Rabbykn44</h1>
 <h3 align="center">A Passionate CSE Student Exploring Technology and Innovation</h3>
-<img align ="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400" height="345">
+<img align ="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400" height="400">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabbykn44&label=Profile%20views&color=0e75b6&style=flat" alt="rabbykn44" /> </p>
